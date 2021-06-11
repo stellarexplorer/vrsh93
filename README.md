@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋 I'm vrsh93
+
+#### You can call me Coding Girl ✌
 
 <!--
 **vrsh93/vrsh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
