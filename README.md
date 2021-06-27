@@ -1,18 +1,10 @@
-### Hi there! 👋 I'm vrsh93
+# Hi there! 👋 I'm Varsha!
 
-#### You can call me Coding Girl ✌
-
-<!--
-**vrsh93/vrsh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a website
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on HTML, CSS and JavaScript
+- 🤔 I’m looking for help with C++
+- 💬 Ask me anything about HTML, CSS, and JavaScript
+- 📫 How to reach me: Scratch: vrsh93, Codepen: cxdiing-
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I know HTML, CSS, JavaScript, Kotlin, Swift, C++, TypeScript, PHP, Java, React and SQL.
