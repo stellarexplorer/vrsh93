@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Varsha!
+# Hi there! 👋 I'm Violet!
 
 - 🔭 I’m currently working on a website
 - 🌱 I’m currently learning C++
